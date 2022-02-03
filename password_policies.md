@@ -5,3 +5,4 @@ The websites listed in here have issues with Passwords. These websites should ch
 ## Limited Password Reset Options
 
 [Venmo](http://www.venmo.com): "Your password must be 8-32 characters long"
+[Paypal](http://www.paypal.com): "Your password must be between 8-20 characters long"
